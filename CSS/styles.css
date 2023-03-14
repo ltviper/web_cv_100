@@ -1,0 +1,15 @@
+
+body { 
+    background-color: grey;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted; 
+    border-color: yellow;
+    border-width: 8px;
+    height: 2px;
+    width: 85%; 
+}
+        
+        
